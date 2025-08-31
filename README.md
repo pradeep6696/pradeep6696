@@ -60,7 +60,7 @@
 <div align="center">
 
 ### 🚉 TrainMate – Online Ticketing Platform
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/pradeep6696)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)]()
 
 **Tech Stack:** `Java` `Spring Boot` `Hibernate` `REST APIs` `MySQL`
 
@@ -73,7 +73,7 @@
 ---
 
 ### 👨‍⚕️ Online Doctor Appointment Booking System
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/pradeep6696/Online_Doctor_Appointment_Booking_System)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)]()
 
 **Tech Stack:** `Java` `Spring Boot` `SQL`
 
@@ -86,7 +86,7 @@
 ---
 
 ### 🏦 Banking Management System
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/pradeep6696/Banking_Management_System)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)]()
 
 **Tech Stack:** `Java` `OOP` `CLI-based`
 
